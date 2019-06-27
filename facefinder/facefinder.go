@@ -3,7 +3,7 @@ package facefinder
 import (
 	"image"
 
-	"github.com/lazywei/go-opencv/opencv"
+	"github.com/synvisions/go-opencv/opencv"
 )
 
 var faceCascade *opencv.HaarCascade
